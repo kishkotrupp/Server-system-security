@@ -8,3 +8,5 @@ nasm -felf LogicBomb.asm -o LogicBomb.o
 ld -m elf_i386 LogicBomb.o -o LogicBomb
 5. Для запуска файла требуется ввести
 ./LogicBomb
+
+Видеоролик о работе: https://drive.google.com/drive/folders/1lfGo_Y3kUMKycy0zQZaMGgBwlMjjjP_v?hl=ru
